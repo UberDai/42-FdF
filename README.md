@@ -19,14 +19,14 @@ Implemented features :
 * **C**: Toggle color
 
 ### Screenshots
-![Screenshot](screenshot1.jpg?raw=true)
+![Screenshot](screenshot1.png?raw=true)
 
 *Pyramid: Simple map, no colors.*
 
-![Screenshot](screenshot2.jpg?raw=true)
+![Screenshot](screenshot2.png?raw=true)
 
 *42: Simple map with colors.*
 
-![Screenshot](screenshot3.jpg?raw=true)
+![Screenshot](screenshot3.png?raw=true)
 
 *France heighmap: Large map with colors. Pretty messy colors, ye. Let's say it's a weather map.
