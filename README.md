@@ -29,4 +29,4 @@ Implemented features :
 
 ![Screenshot](screenshot3.png?raw=true)
 
-*France heighmap: Large map with colors. Pretty messy colors, ye. Let's say it's a weather map.
+*France heighmap: Large map with colors. Pretty messy colors, ye. Let's say it's a weather map.*
